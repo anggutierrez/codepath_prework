@@ -7,6 +7,7 @@ HelloAngel
 ### App Walk-though
 
 <iframe src='https://gfycat.com/ifr/DevotedUnluckyArmyworm' frameborder='0' scrolling='no' allowfullscreen width='640' height='267'></iframe>
+
 ### Required User Stories
 - [x] 1. User sees custom text in a label - Hello from {name}!
 - [x] 2. User see's custom background color.
