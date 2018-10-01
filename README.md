@@ -1,5 +1,4 @@
-## NAME_OF_YOUR_APP_HERE
-HelloAngel
+## HelloAngel
 
 ### App Description
 --The app is able to change a few items using buttons, including: text color, background color, and even the text string. All of this is reversed when tapping the background of the image.
