@@ -5,8 +5,9 @@ HelloAngel
 --The app is able to change a few items using buttons, including: text color, background color, and even the text string. All of this is reversed when tapping the background of the image.
 
 ### App Walk-though
-
-<iframe src='https://gfycat.com/ifr/DevotedUnluckyArmyworm' frameborder='0' scrolling='no' allowfullscreen width='640' height='267'></iframe>
+<div>
+<iframe src="https://gfycat.com/ifr/DevotedUnluckyArmyworm" frameborder='0' scrolling='no' allowfullscreen width='640' height='267'></iframe>
+</div>
 
 ### Required User Stories
 - [x] 1. User sees custom text in a label - Hello from {name}!
